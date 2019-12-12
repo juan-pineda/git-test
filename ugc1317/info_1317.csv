@@ -1,0 +1,2 @@
+name,pos_angle,inclination,vmax,morpho_type,vsys,xdss,continuum_map,intensity_sum,velocity_field,xdss_fits,velocity_field_fits,data_rotation_curve
+UGC1317,106,73,205,SAB(r)c,3090,maps/ugc1317_dss.png,maps/ugc1317_cont_voro.png,maps/ugc1317_cube_sum.png,maps/ugc1317_rv_voro.png,maps/ugc1317_dss.fits,maps/ugc1317_rv_voro.fits,rotationcurves/rcugc1317.txt
